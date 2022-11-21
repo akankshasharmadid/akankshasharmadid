@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 🔭 I’m currently working on [Crash Sensys Dataset](https://github.com/seattlelizzard/CrashSeattle)
+
+- 🌱 I’m currently learning **Statistical Machine learning, Time Series Analysis**
+
+- 👯 I’m looking to collaborate on **projects related to medical domain**
+
+- 🤝 I’m looking for help with **finding internships**
+
 - 📫 How to reach me **akankshasharmadid@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FY4YZh7la8LN841damLJL-4O95zQ1PWs/view?usp=sharing](https://drive.google.com/file/d/1FY4YZh7la8LN841damLJL-4O95zQ1PWs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
