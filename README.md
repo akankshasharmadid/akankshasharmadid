@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-
+<img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 - 🔭 I’m currently working on [Crash Sensys Dataset](https://github.com/seattlelizzard/CrashSeattle)
 
 - 🌱 I’m currently learning **Statistical Machine learning, Time Series Analysis**
