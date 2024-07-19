@@ -3,15 +3,13 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **Statistical Machine learning, Time Series Analysis**
+- 🌱 I just graduated with Master's in Data Science from Seattle University
 
-- 👯 I’m looking to collaborate on **projects related to medical domain**
+- 👯 I’m looking for a full time role as Data Scientist, Data Analyst or Data Engineer.
 
-- 🤝 I’m looking for help with **finding internships**
+- 🤝 I’m looking for help with **referrals**
 
 - 📫 How to reach me **akankshasharmadid@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FY4YZh7la8LN841damLJL-4O95zQ1PWs/view?usp=sharing](https://drive.google.com/file/d/1FY4YZh7la8LN841damLJL-4O95zQ1PWs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
