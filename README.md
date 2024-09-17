@@ -1,17 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=akankshasharmadid&base=1000)
 <h1 align="center">Hi 👋, I'm Akanksha Sharma</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from India and working as a Data Engineer</h3>
 <img align="right" alt="Coding" width ="400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
+- 📫 I am currently working as a Data Engineer at SL-Serco and have 4 years of work experience as a Data
+  
 - 🌱 I just graduated with Master's in Data Science from Seattle University
 
-- 👯 I’m looking for a full time role as Data Scientist, Data Analyst or Data Engineer.
+### 📊 Stats
 
-- 🤝 I’m looking for help with **referrals**
+[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshasharmadid)](https://github.com/akankshasharmadid/github-readme-stats)
 
-- 📫 How to reach me **akankshasharmadid@gmail.com**
-
-- I am looking for someone to take a chance on me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
