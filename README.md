@@ -32,9 +32,8 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Personal Blog: [yourblog.com](https://yourblog.com)
+- LinkedIn: [Akanksha Sharma]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/akanksha-12831bb1/))
+- Personal Blog: [Akanksha Sharma](https://akankshasharmadid.github.io/portfolio/)
 
 ---
 
